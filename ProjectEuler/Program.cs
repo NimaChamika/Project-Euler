@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
+﻿using ProjectEuler.Solutions;
 
 
 namespace ProjectEuler
@@ -9,7 +7,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Problem_1.Solution();
         }
     }
 }
