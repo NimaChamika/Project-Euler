@@ -7,7 +7,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Problem_3.Solution();
+            Problem_4.Solution();
         }
     }
 }
