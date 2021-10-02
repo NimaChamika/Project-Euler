@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ProjectEuler.Solutions
 {
-    class Problem_8
+    class Problem_008
     {
         static string path = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + @"\input.txt";
         static string x = "";
