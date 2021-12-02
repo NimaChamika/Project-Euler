@@ -9,7 +9,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Problem_021.Solution();
+            Problem_022.Solution();
         }
     }
 }
